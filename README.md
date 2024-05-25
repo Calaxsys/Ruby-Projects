@@ -1,0 +1,1 @@
+This is a directory for my ruby projects to demonstrate my knowledge as I learn
